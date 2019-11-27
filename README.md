@@ -6,6 +6,7 @@
   
 ## 오늘 우리가 배워볼 명령어들 :: 자세한건 강의 시간에!
 ```
+git init
 git add
 git commit
 git push
